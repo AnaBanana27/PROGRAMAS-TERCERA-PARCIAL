@@ -1,7 +1,7 @@
 # TERCERA PARCIAL
 
 
-<img src="https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/1_Linea/UdeC%20Abajo_Blanco.png">
+<img src=""https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/Dos_lineas_Izq/UdeC_2L%20izq_Blanco.png">
 
 <h1>FACULTAD DE INGENIERÍA MECANICA Y ELECTRICA <h1>
 
