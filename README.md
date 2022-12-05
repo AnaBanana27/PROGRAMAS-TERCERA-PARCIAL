@@ -9,6 +9,6 @@
 
 <h3>Fundamentos de Programación<h3>
 
-<h4> Braulio Yahir Gaitan Vargas 3°D <h4>
+<h4> ANA ISABEL SANCHEZ HEREDIA 3°D <h4>
 
-<h5> Apuntes Realizados en clase 3da Parcial Sobre elixir <h5>
+<h5> PROGRAMAS EXILIR <h5>
