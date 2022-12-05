@@ -1,4 +1,4 @@
-# Terceria_Parcial
+# TERCERA PARCIAL
 
 
 <img src="https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/1_Linea/UdeC%20Abajo_Blanco.png">
