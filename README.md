@@ -3,11 +3,11 @@
 
 <img src="https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/1_Linea/UdeC%20Abajo_Blanco.png">
 
-<h1>Facultad de Ingeniería Mecánica y Eléctrica<h1>
+<h1>FACULTAD DE INGENIERÍA MECANICA Y ELECTRICA <h1>
 
-<h2>Ingeniería en Computación Inteligente<h2>
+<h2>INGENIERÍA EN COMPUTACIÓN INTELIGENTE <h2>
 
-<h3>Fundamentos de Programación<h3>
+<h3>FUNDAMENTOS DE LA PROGRAMACIÓN<h3>
 
 <h4> ANA ISABEL SANCHEZ HEREDIA 3°D <h4>
 
